@@ -1,6 +1,6 @@
 .navbar{
     height:50px;
-    background-color: pink;
+    background-color: #E07BE0;
     display: flex;
     justify-content: center;
 }
@@ -27,7 +27,7 @@
     padding: 5px 10px;
     cursor: pointer;
     color:white;
-    background-color: rgb(238, 154, 168);
+    background-color: #932F6D;
     border-radius: 10px;
 
 }

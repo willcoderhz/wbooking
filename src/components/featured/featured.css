@@ -8,7 +8,7 @@
 
 .featuredItem{
     position: relative;
-    color:rgb(249, 234, 236);
+    color:#F6F2FF;
     border-radius: 10px;
     overflow: hidden;
     height: 250px;
@@ -24,8 +24,8 @@
     bottom: 10px;
     left: 20px;
     text-shadow:
-    -1px -1px 0 rgb(35, 3, 8),
-    1px -1px 0 rgb(116, 22, 38),
-    -1px 1px 0 rgb(96, 24, 36),
-    1px 1px 0 rgb(236, 103, 125);
+    -1px -1px 0 #420039,
+    1px -1px 0#420039,
+    -1px 1px 0 #420039,
+    1px 1px 0 #420039;
 }

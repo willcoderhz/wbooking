@@ -27,6 +27,7 @@
 
 .hotelTitle{
     font-size: 24px;
+    color: #420039;
 }
 
 .hotelAddress{
@@ -37,7 +38,7 @@
 }
 
 .hotelDistance{
-    color: rgb(243, 83, 109);
+    color:#932F6D;
     font-weight: 600;
 }
 
@@ -57,7 +58,7 @@
     top: 10px;
     right: 0;
     border: none;
-    background-color: rgb(244, 146, 162);
+    background-color: #932F6D;
     color: white;
     padding: 10px;
     font-size: 15px;
@@ -79,7 +80,7 @@
 
 .hotelDetailsPrice{
     flex:1;
-    background-color: rgba(255, 192, 203, 0.322);
+    background-color: #DCCCFF;
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -89,7 +90,7 @@
 
 .hotelDetailsPrice>h1{
     font-size: 21px;
-    color: gray;
+    color: #420039;
 }
 .hotelDetailsPrice>h2{
     font-size: 20px;
@@ -104,7 +105,7 @@
     bottom: 10px;
     right: 0;
     border: none;
-    background-color: rgb(244, 146, 162);
+    background-color:#E07BE0;
     color: white;
     padding: 10px;
     font-size: 15px;
@@ -129,7 +130,7 @@
     height: 100%;
     display: flex;
     justify-content: center;
-    background-color: rgba(225, 198, 201, 0.63);
+    background-color: #dcccff6a;
     z-index: 3;
     align-items: center;
     padding: 120px 0px;

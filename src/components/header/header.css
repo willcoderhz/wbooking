@@ -1,5 +1,5 @@
 .header{
-    background-color: pink;
+    background-color:#E07BE0;
     color: white;
     display: flex;
     justify-content: center;
@@ -28,7 +28,7 @@
 }
 
 .headerListItem.active{
-    border: 1px solid white;
+    border: 1px solid #932F6D;
     padding: 10px;
     border-radius: 20px;
 }
@@ -38,10 +38,10 @@
 }
 
 .headerBtn{
-    background-color: rgb(238, 154, 168);
+    background-color:#932F6D;
     color: white;
     border: none;
-    padding: 10px 5px;
+    padding: 12px 5px;
     border-radius: 10px;
     font-weight: 600;
     cursor: pointer;
@@ -50,7 +50,7 @@
 .headerSearch{
     height: 30px;
     background-color: white;
-    border: 3px solid rgb(238, 154, 168);
+    border: 3px solid #932F6D;
     display: flex;
     align-items: center ;
     justify-content: space-around;
@@ -117,7 +117,7 @@
 .optionCounterButton{
     width: 30px;
     height: 30px;
-    border: 1px solid rgb(238, 154, 168);
+    border: 1px solid #932F6D;
     background-color: white;
     color: rgb(238, 154, 168);
     cursor: pointer;

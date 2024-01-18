@@ -45,7 +45,7 @@ const Hotel = ()=>{
                     <FontAwesomeIcon icon={faCircleArrowRight} className="arrowRight"onClick={()=>setSlideNumber(Math.min(photos.length-1,slideNumber+1))}/>
                     </div>}
                 <div className="hotelWrapper">
-                    <button className="bookNow">Reserve or Booknow</button>
+                    <button className="bookNow">Reserve or Book now</button>
                     <h1 className="hotelTitle">Grand Hotel</h1>
                     <div className="hotelAddress">
                         <FontAwesomeIcon icon={faLocationDot} />
