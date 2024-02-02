@@ -7,6 +7,12 @@ import { useState } from "react";
 import { format } from "date-fns";
 import {DateRange} from 'react-date-range';
 import SearchItem from "../../components/searchItem/searchItem";
+import SearchItem1 from "../../components/searchItem1/searchItem";
+import SearchItem2 from "../../components/searchItem2/searchItem";
+import SearchItem3 from "../../components/searchItem3/searchItem";
+import SearchItem4 from "../../components/searchItem4/searchItem";
+import SearchItem5 from "../../components/searchItem5/searchItem";
+import SearchItem6 from "../../components/searchItem6/searchItem";
 import MailList from "../../components/mailList/MailList";
 import Footer from "../../components/footer/Footer";
 
@@ -71,13 +77,13 @@ const List = ()=>{
                     </div>
                     <div className="listResult">
                     <SearchItem/>
-                    <SearchItem/>
-                    <SearchItem/>
-                    <SearchItem/>
-                    <SearchItem/>
-                    <SearchItem/>
-                    <SearchItem/>
-                    <SearchItem/>
+                    <SearchItem1/>
+                    <SearchItem2/>
+                    <SearchItem3/>
+                    <SearchItem4/>
+                    <SearchItem5/>
+                    <SearchItem6/>
+                    
                     </div>
                 </div>
             </div>
