@@ -83,7 +83,6 @@ const List = ()=>{
                     <SearchItem4/>
                     <SearchItem5/>
                     <SearchItem6/>
-                    
                     </div>
                 </div>
             </div>
